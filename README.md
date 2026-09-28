@@ -1,6 +1,6 @@
 # Password Generator
 
-**Live demo:** https://babug01.github.io/password-generator/
+**Live demo:** https://password-generator-three-ecru-71.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/password-generator/)
 
 Generates strong, random passwords entirely in the browser using the Web Crypto API — with a real
 entropy calculation behind the strength label instead of the usual canned regex pattern score
